@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# environment
+.env
+.DS_Store
+.idea
+
+# production
+/dist
